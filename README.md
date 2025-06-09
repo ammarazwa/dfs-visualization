@@ -13,12 +13,10 @@ Visualisasi interaktif algoritma **Depth-First Search (DFS)** menggunakan **Pyth
 ---
 
 ## 📷 Tampilan Antarmuka
-
-![DFS Visualizer Screenshot](screenshot.png)
 ![image](https://github.com/user-attachments/assets/b4ab385c-182a-4e2b-83df-9f13dc1a70a5)
 
 
 ---
 
 ## ⚙️ Kunjungi pada web ini
-###
+###https://dfs-visualization.streamlit.app/
