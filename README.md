@@ -13,7 +13,7 @@ Visualisasi interaktif algoritma **Depth-First Search (DFS)** menggunakan **Pyth
 ---
 
 ## 📷 Tampilan Antarmuka
-![image](https://github.com/user-attachments/assets/b4ab385c-182a-4e2b-83df-9f13dc1a70a5)
+![image](https://github.com/user-attachments/assets/38b29ac4-a248-45fe-85a5-d666cd0ca1e2)
 
 
 ---
